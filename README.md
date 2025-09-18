@@ -1,18 +1,18 @@
 ![logo](https://github.com/Rajabhin/Rajabhin/blob/main/Background.jpg)
 <h1 align="center">Hi 👋, I'm Abhinav Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajabhin&label=Profile%20views&color=0e75b6&style=flat" alt="rajabhin" /> </p>
 
-- 🔭 I’m currently working on **Reactjs Project**
+- 🔭 I’m currently working on **Power BI & SQL Project**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajabhin?tab=repositories](https://github.com/Rajabhin?tab=repositories)
 
-- 💬 Ask me about **JavaScript, react**
+- 💬 Ask me about **MS Excel, Power BI, SQL**
 
 - 📫 How to reach me **abhinav0501999@gmail.com**
 
