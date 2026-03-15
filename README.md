@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **Excel, Power BI & SQL Project**
 
-- 🌱 I’m currently learning **Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Rajabhin?tab=repositories](https://github.com/Rajabhin?tab=repositories)
 
-- 💬 Ask me about **MS Excel, Power BI, SQL**
+- 💬 Ask me about **Power BI, SQL, MS Excel, Python**
 
 - 📫 How to reach me **abhinav0501999@gmail.com**
 
