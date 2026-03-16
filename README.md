@@ -1,43 +1,94 @@
 ![logo](https://github.com/Rajabhin/Rajabhin/blob/main/Background.jpg)
+
 <h1 align="center">Hi 👋, I'm Abhinav Raj</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajabhin&label=Profile%20views&color=0e75b6&style=flat" alt="rajabhin" /> </p>
-
-- 🔭 I’m currently working on **Excel, Power BI & SQL Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rajabhin?tab=repositories](https://github.com/Rajabhin?tab=repositories)
-
-- 💬 Ask me about **Power BI, SQL, MS Excel, Python**
-
-- 📫 How to reach me **abhinav0501999@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhinav raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav raj" height="30" width="40" /></a>
+<p align="center">
+Turning raw data into meaningful insights 📊
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<img align="right" alt="analytics" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=rajabhin&label=Profile%20views&color=0e75b6&style=flat" alt="rajabhin" /> 
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajabhin&show_icons=true&locale=en&layout=compact" alt="rajabhin" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajabhin&show_icons=true&locale=en" alt="rajabhin" /></p>
+- 📊 Data Analyst with **2+ years experience**
+- 🔍 Skilled in **SQL, Power BI, Python, and Excel**
+- 📈 Experienced in **data cleaning, dashboard development, and business insights**
+- 🔭 Currently working on **SQL + Power BI analytics projects**
+- 💬 Ask me about **Power BI, SQL, Excel, Python**
+- 📫 Reach me at **abhinav0501999@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajabhin&" alt="rajabhin" /></p>
+---
+
+## 🚀 Featured Projects
+
+🔹 **Consumer Goods Sales Analysis**  
+SQL + Power BI analysis of sales, product growth, and customer behavior  
+➡️ https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries  
+
+🔹 **Healthcare Diagnostic TAT Analysis**  
+Power BI dashboard analyzing turnaround time across cities and departments  
+
+🔹 **Power BI Business Analytics Dashboard**  
+Interactive dashboards tracking KPIs and business performance  
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajabhin&show_icons=true&theme=default" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabhin&layout=compact" height="160"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajabhin"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abhinav-raj-311a40214/">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+
+<a href="mailto:abhinav0501999@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
+</a>
+
+</p>
+
+---
+
+⭐ From [Abhinav Raj](https://github.com/Rajabhin)
