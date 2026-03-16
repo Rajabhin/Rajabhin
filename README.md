@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajabhin/Rajabhin/blob/main/Background.jpg)
+![banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Excel&fontSize=35)
 
 <h1 align="center">Hi 👋, I'm Abhinav Raj</h1>
 <h3 align="center">Data Analyst | SQL | Power BI | Python | Excel</h3>
